@@ -1,0 +1,76 @@
+.timer-container {
+  background-color: var(--timer-background-color);
+  border: var(--timer-border);
+  height: var(--timer-height);
+  width: var(--timer-width);
+  background-color: #f2f2f7;
+  text-align: center;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+  border: none;
+}
+.time-display {
+  border-radius: 2px solid black;
+}
+.headTime {
+  border-radius: 2px solid black;
+}
+.start-timer {
+  color: white;
+  background-color: #ff345f;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  margin: 10px;
+  width: 90px;
+  font-size: 16px;
+  border: 1px solid lightgrey;
+}
+.start-timer-app {
+  color: white;
+  background-color: #ff345f;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  margin: 10px;
+  width: 90px;
+  font-size: 16px;
+}
+.stop-timer {
+  color: #ff345f;
+  background-color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  margin: 10px;
+  width: 90px;
+  font-size: 16px;
+  border: 1px solid lightgrey;
+}
+.reset-timer {
+  color: #ff345f;
+  background-color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  margin: 10px;
+  width: 90px;
+  font-size: 16px;
+  border: 1px solid lightgrey;
+}
+.myHead {
+  border: "3px solid #d3cadb";
+  width: 90px;
+  height: 70px;
+  border-radius: 100%;
+  padding: 10%;
+  margin-left: 35%;
+}
+.resume-timer {
+  background-color: #f43856;
+  border: none;
+  color: white;
+  size: 5px;
+  height: 40px;
+  width: 60px;
+}

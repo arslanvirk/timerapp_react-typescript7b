@@ -1,0 +1,12 @@
+.button-container {
+  flex: 1 1 auto;
+  text-align: center;
+  margin: 0px 20px;
+
+  display: inline;
+}
+
+.button-container:hover {
+  cursor: pointer;
+  color: blue;
+}
